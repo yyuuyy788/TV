@@ -167,18 +167,18 @@ CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m
 龙游生活,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 
 其他,#genre#
+CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad&咪咕
+CHC动作电影,http://223.151.51.27:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+电视剧轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1453059740
+电影轮播,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24066336
+华语电影,http://epg.112114.xyz/douyu/3928
+豆瓣高分,http://epg.112114.xyz/douyu/8770422
 
 第一剧场,http://111.20.40.170/PLTV/88888893/224/3221226959/index.m3u8
-动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
-魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
-风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
-求索纪录,https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
-兵器科技,https://live.goodiptv.club/api/cqyx.php?id=bqkjHD
-游戏风云,https://live.goodiptv.club/api/cqyx.php?id=yxfyHD
-怀旧剧场,https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
-风云音乐,https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
-央视台球,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
-风云足球,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
-文化精品,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
-高尔夫网球,https://live.goodiptv.club/api/cqyx.php?id=golfHD
-早期教育,https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
+经典小品,http://tc-tct.douyucdn2.cn/dyliveflv3/10153463r0oBSmAG.flv?wsAuth=327f9acf257abce343423d9ca46ef9ae&token=cpn-androidmpro-0-10153463-ee6c60cb51b36154827caa4c2303ce140c03be821c37ac32&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3
+斗鱼轮播,http://epg.112114.xyz/douyu/74374
+贝爷MAX厅,http://epg.112114.xyz/douyu/4332
+动漫推荐,http://epg.112114.xyz/douyu/5187099
+名侦探柯南,http://epg.112114.xyz/douyu/7050342
