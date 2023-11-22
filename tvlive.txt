@@ -132,8 +132,7 @@ CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&au
 龙游生活,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 其他,#genre#
 
-第一剧场,https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
-都市剧场,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
+第一剧场,http://111.20.40.170/PLTV/88888893/224/3221226959/index.m3u8
 动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
 魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
 风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
