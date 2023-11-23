@@ -146,7 +146,6 @@ CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m
 广东卫视,https://cntv.lat/tv/zb.php?auth=231122&id=gdws
 东南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=dnws
 河北卫视,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226328/index.m3u8
-河北卫视,https://cntv.lat/tv/zb.php?auth=231122&id=hebws
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 
