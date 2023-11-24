@@ -1,4 +1,23 @@
 央视,#genre#
+
+CCTV-1,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227479/index.m3u8
+CCTV-2,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227477/index.m3u8
+CCTV-3,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227435/index.m3u8
+CCTV-4,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227373/index.m3u8
+CCTV-5,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227491/index.m3u8
+CCTV-5+,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227493/index.m3u8
+CCTV-6,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227431/index.m3u8
+CCTV-7,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227429/index.m3u8
+CCTV-8,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227427/index.m3u8
+CCTV-9,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227425/index.m3u8
+CCTV-10,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227375/index.m3u8
+CCTV-11,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227922/index.m3u8
+CCTV-12,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227377/index.m3u8
+CCTV-13,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227926/index.m3u8
+CCTV-14,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227379/index.m3u8
+CCTV-15,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227933/index.m3u8
+CCTV-17,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227577/index.m3u8
+
 CCTV1,https://cntv.lat/tv/zb.php?auth=231122&id=cctv1
 CCTV2,https://cntv.lat/tv/zb.php?auth=231122&id=cctv2
 CCTV3,https://cntv.lat/tv/zb.php?auth=231122&id=cctv3
@@ -108,18 +127,24 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8?$8M1080
 
 卫视,#genre#
+
+
 湖南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=hnws
 湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD
 重庆卫视,https://cntv.lat/tv/zb.php?auth=231122&id=cqws
 重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
+江苏卫视,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227421/index.m3u8
 江苏卫视,https://cntv.lat/tv/zb.php?auth=231122&id=jsws
 江苏卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 北京卫视,https://cntv.lat/tv/zb.php?auth=231122&id=bjws
 北京卫视,https://live.goodiptv.club/api/cqyx.php?id=beijingHD
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+东方卫视,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227401/index.m3u8
 东方卫视,https://cntv.lat/tv/zb.php?auth=231122&id=dfws
 东方卫视,https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
+安徽卫视,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227363/index.m3u8
+深圳卫视,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227419/index.m3u8
 深圳卫视,https://cntv.lat/tv/zb.php?auth=231122&id=szws
 深圳卫视,https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
@@ -130,6 +155,7 @@ CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m
 天津卫视,https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
 贵州卫视,https://cntv.lat/tv/zb.php?auth=231122&id=gzws
 贵州卫视,https://live.goodiptv.club/api/cqyx.php?id=guizhouHD
+四川卫视,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227417/index.m3u8
 四川卫视,https://cntv.lat/tv/zb.php?auth=231122&id=scws
 四川卫视,https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
 东南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=dnws
@@ -145,7 +171,9 @@ CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m
 广西卫视,https://live.goodiptv.club/api/cqyx.php?id=guangxiHD
 广东卫视,https://cntv.lat/tv/zb.php?auth=231122&id=gdws
 东南卫视,https://cntv.lat/tv/zb.php?auth=231122&id=dnws
+河北卫视,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227399/index.m3u8
 河北卫视,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226328/index.m3u8
+山东卫视,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227365/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 
@@ -153,6 +181,7 @@ CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 
 浙江,#genre#
+浙江卫视,http://iptv.10086.fund:23334/PLTV/88888888/224/3221227351/index.m3u8
 浙江卫视,https://cntv.lat/tv/zb.php?auth=231122&id=zjws
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
