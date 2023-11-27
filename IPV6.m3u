@@ -194,39 +194,41 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000180630/index.
 #EXTINF:-1,tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://epg.112114.xyz/logo/爱动漫.png" group-title="少儿",爱动漫
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000280630&amp;livemode=1&amp;stbId=3
 
-#EXTINF:-1,tvg-id="10001" tvg-name="NBA-1" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-01
-http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mgline01
-#EXTINF:-1,tvg-id="10002" tvg-name="NBA-2" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-02
-http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mgline02
-#EXTINF:-1,tvg-id="10003" tvg-name="NBA-3" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-03
-http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mgline03
-#EXTINF:-1,tvg-id="10004" tvg-name="NBA-4" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-04
-http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mgline04
-#EXTINF:-1,tvg-id="10005" tvg-name="NBA-6" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-05
-http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mgline05
-#EXTINF:-1,tvg-id="10026" tvg-name="NBA-6" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="NBA",NBA-06
-http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=txline06
-#EXTINF:-1,tvg-id="10027" tvg-name="NBA-7" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="NBA",NBA-07
-http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=txline07
-#EXTINF:-1,tvg-id="10028" tvg-name="NBA-8" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="NBA",NBA-08
-http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=txline08
-#EXTINF:-1,tvg-id="10029" tvg-name="NBA-9" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="NBA",NBA-09
-http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=txline09
-#EXTINF:-1,tvg-id="10030" tvg-name="NBA-10" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="NBA",NBA-10
-http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=txline10
-
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-01
-http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mfline01
+http://129.226.149.79:5678/Freelive.php?access_token=test1127faku&id=mfline01
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-02
-http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mfline02
+http://129.226.149.79:5678/Freelive.php?access_token=test1127faku&id=mfline02
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-03
-http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mfline03
+http://129.226.149.79:5678/Freelive.php?access_token=test1127faku&id=mfline03
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-04
-http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mfline04
+http://129.226.149.79:5678/Freelive.php?access_token=test1127faku&id=mfline04
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-05
-http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mfline05
+http://129.226.149.79:5678/Freelive.php?access_token=test1127faku&id=mfline05
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-06
-http://129.226.149.79:5678/Freelive.php?access_token=test1118&id=mfline06
+http://129.226.149.79:5678/Freelive.php?access_token=test1127faku&id=mfline06
+
+
+
+#EXTINF:-1,tvg-id="10001" tvg-name="NBA-1" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-01
+http://129.226.149.79:5678/Freelive.php?access_token=test1127faku&id=mgline01
+#EXTINF:-1,tvg-id="10002" tvg-name="NBA-2" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-02
+http://129.226.149.79:5678/Freelive.php?access_token=test1127faku&id=mgline02
+#EXTINF:-1,tvg-id="10003" tvg-name="NBA-3" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-03
+http://129.226.149.79:5678/Freelive.php?access_token=test1127faku&id=mgline03
+#EXTINF:-1,tvg-id="10004" tvg-name="NBA-4" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-04
+http://129.226.149.79:5678/Freelive.php?access_token=test1127faku&id=mgline04
+#EXTINF:-1,tvg-id="10005" tvg-name="NBA-6" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-MGNBA.png" group-title="NBA",NBA-05
+http://129.226.149.79:5678/Freelive.php?access_token=test1127faku&id=mgline05
+#EXTINF:-1,tvg-id="10026" tvg-name="NBA-6" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="NBA",NBA-06
+http://129.226.149.79:5678/Freelive.php?access_token=test1127faku&id=txline06
+#EXTINF:-1,tvg-id="10027" tvg-name="NBA-7" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="NBA",NBA-07
+http://129.226.149.79:5678/Freelive.php?access_token=test1127faku&id=txline07
+#EXTINF:-1,tvg-id="10028" tvg-name="NBA-8" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="NBA",NBA-08
+http://129.226.149.79:5678/Freelive.php?access_token=test1127faku&id=txline08
+#EXTINF:-1,tvg-id="10029" tvg-name="NBA-9" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="NBA",NBA-09
+http://129.226.149.79:5678/Freelive.php?access_token=test1127faku&id=txline09
+#EXTINF:-1,tvg-id="10030" tvg-name="NBA-10" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-TXNBA.png" group-title="NBA",NBA-10
+http://129.226.149.79:5678/Freelive.php?access_token=test1127faku&id=txline10
 
 
 
