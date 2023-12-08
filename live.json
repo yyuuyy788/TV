@@ -1,48 +1,13 @@
 {
   "lives": [
     {
-      "name": "TXT",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/yyuuyy788/tv/main/IPV6.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "IJK",
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/yyuuyy788/tv/main/IPV6.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "playerType": 1
-    },
-    {
-      "name": "PRO",
+      "name": "直播",
       "boot": true,
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/yyuuyy788/tv/main/IPV6.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
       "referer": "https://github.com/"
-    },
-    {
-      "name": "Custom",
-      "boot": true,
-      "pass": true,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/yyuuyy788/tv/main/IPV6.txt",
-      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "header": {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-        "Referer": "https://github.com/"
-      }
-    },
-    {
-      "name": "JSON",
-      "type": 1,
-      "url": "https://github.com/live.json"
-    },
-    {
-      "name": "Proxy",
-      "type": 2,
-      "url": "proxy://do=live&type=today"
     }
   ]
 }
