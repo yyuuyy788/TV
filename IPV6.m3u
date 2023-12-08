@@ -101,7 +101,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1,tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://epg.112114.xyz/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
 http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1,tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://epg.112114.xyz/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
+#EXTINF:-1,tvg-id="浙江民生休闲" tvg-name="浙江民生休闲" tvg-logo="https://epg.112114.xyz/logo/浙江民生.png" group-title="浙江",浙江民生休闲
 http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1,tvg-id="浙江经济生活" tvg-name="浙江经济生活" tvg-logo="https://epg.112114.xyz/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
 http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -153,7 +153,7 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 #EXTINF:-1,tvg-id="NEWTV超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级综艺.png" group-title="影视剧",超级综艺
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/1.m3u8
-#EXTINF:-1,tvg-id="少儿动漫" tvg-name="少儿动漫" tvg-logo="https://epg.112114.xyz/logo/少儿动漫.png" group-title="少儿",少儿动漫
+#EXTINF:-1,tvg-id="少儿动漫" tvg-name="少儿动漫" tvg-logo="https://epg.112114.xyz/logo/少儿动画.png" group-title="少儿",少儿动画
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid=8145334647720731271&livemode=1&stbId=3
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="少儿",卡酷少儿
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225643/1.m3u8
