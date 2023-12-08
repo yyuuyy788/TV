@@ -15,7 +15,7 @@
     },
     {
       "name": "PRO",
-      "boot": false,
+      "boot": true,
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/yyuuyy788/tv/main/IPV6.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Custom",
-      "boot": false,
+      "boot": true,
       "pass": true,
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/yyuuyy788/tv/main/IPV6.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
