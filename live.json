@@ -12,10 +12,10 @@
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 1
-    },   
+    },
     {
       "name": "PRO",
-      "boot": true,
+      "boot": false,
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/yyuuyy788/tv/main/IPV6.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
@@ -24,7 +24,7 @@
     },
     {
       "name": "Custom",
-      "boot": true,
+      "boot": false,
       "pass": true,
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/yyuuyy788/tv/main/IPV6.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
@@ -37,7 +37,12 @@
     {
       "name": "JSON",
       "type": 1,
-      "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/yyuuyy788/tv/main/live.json"
+      "url": "https://github.com/live.json"
+    },
+    {
+      "name": "Proxy",
+      "type": 2,
+      "url": "proxy://do=live&type=today"
     }
   ]
 }
