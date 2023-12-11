@@ -1,6 +1,4 @@
 #EXTM3U logo- https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/tv-test.png" group-title="测试",IPTV维护
-http://129.226.149.79:5678/testvideo.php?id=testvideo2
 
 
 #EXTINF:-1,tvg-id="" tvg-name="" tvg-logo="https://codeberg.org/testTV/TestV/raw/branch/main/tvicon/SP-FIFA.png" group-title="足球",足球线路-01
