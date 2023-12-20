@@ -2,3 +2,7 @@
 parse=1
 NBA1,http://play.sportsteam1234.com/play/kbs.html?id=56376734&id2=
 NBA2,http://play.sportsteam1234.com/play/kbs.html?id=56376735&id2=
+
+咪咕,#genre#
+NBA1,http://play.sportsteam1234.com/play/wen.php?id=41&id2=
+NBA2,http://play.sportsteam1234.com/play/wen.php?id=43&id2=
