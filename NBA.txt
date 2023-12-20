@@ -1,0 +1,3 @@
+parse=1
+NBA1,http://play.sportsteam1234.com/play/kbs.html?id=56376734&id2=
+NBA2,http://play.sportsteam1234.com/play/kbs.html?id=56376735&id2=
