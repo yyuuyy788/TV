@@ -14,7 +14,7 @@ NBA10,http://play.sportsteam1234.com/play/kbs.html?id=56376757&id2=
 咪咕,#genre#
 parse=1
 NBA1,http://play.sportsteam1234.com/play/wen.php?id=41&id2=
-NBA2,http://play.sportsteam1234.com/play/wen.php?id=423&id2=
+NBA2,http://play.sportsteam1234.com/play/wen.php?id=42&id2=
 NBA3,http://play.sportsteam1234.com/play/wen.php?id=43&id2=
 NBA4,http://play.sportsteam1234.com/play/wen.php?id=44&id2=
 NBA5,http://play.sportsteam1234.com/play/wen.php?id=45&id2=
