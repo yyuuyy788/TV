@@ -13,11 +13,18 @@ NBA10,http://play.sportsteam1234.com/play/kbs.html?id=56376757&id2=
 
 咪咕,#genre#
 parse=1
-NBA1,http://live.jpyex.com/player/play.html?id=1140622
-NBA2,http://live.jpyex.com/player/play.html?id=1140663
-NBA3,http://live.jpyex.com/player/play.html?id=1140669
-NBA4,http://live.jpyex.com/player/play.html?id=1140668
-NBA5,http://live.jpyex.com/player/play.html?id=1140670
-NBA6,http://live.jpyex.com/player/play.html?id=1140667
-NBA7,http://live.jpyex.com/player/play.html?id=1140725
+NBA1,http://play.sportsteam1234.com/play/wen.php?id=41&id2=
+NBA2,http://play.sportsteam1234.com/play/wen.php?id=423&id2=
+NBA3,http://play.sportsteam1234.com/play/wen.php?id=43&id2=
+NBA4,http://play.sportsteam1234.com/play/wen.php?id=44&id2=
+NBA5,http://play.sportsteam1234.com/play/wen.php?id=45&id2=
+NBA6,http://play.sportsteam1234.com/play/wen.php?id=46&id2=
+NBA7,http://play.sportsteam1234.com/play/wen.php?id=47&id2=
+http://play.sportsteam1234.com/play/wen.php?id=48&id2=
+http://play.sportsteam1234.com/play/wen.php?id=49&id2=
+http://play.sportsteam1234.com/play/wen.php?id=50&id2=
+http://play.sportsteam1234.com/play/wen.php?id=51&id2=
+http://play.sportsteam1234.com/play/wen.php?id=52&id2=
+http://play.sportsteam1234.com/play/wen.php?id=53&id2=
+
 
