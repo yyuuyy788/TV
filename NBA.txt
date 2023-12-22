@@ -20,11 +20,11 @@ NBA4,http://play.sportsteam1234.com/play/wen.php?id=44&id2=
 NBA5,http://play.sportsteam1234.com/play/wen.php?id=45&id2=
 NBA6,http://play.sportsteam1234.com/play/wen.php?id=46&id2=
 NBA7,http://play.sportsteam1234.com/play/wen.php?id=47&id2=
-http://play.sportsteam1234.com/play/wen.php?id=48&id2=
-http://play.sportsteam1234.com/play/wen.php?id=49&id2=
-http://play.sportsteam1234.com/play/wen.php?id=50&id2=
-http://play.sportsteam1234.com/play/wen.php?id=51&id2=
-http://play.sportsteam1234.com/play/wen.php?id=52&id2=
-http://play.sportsteam1234.com/play/wen.php?id=53&id2=
+NBA8,http://play.sportsteam1234.com/play/wen.php?id=48&id2=
+NBA9,http://play.sportsteam1234.com/play/wen.php?id=49&id2=
+NBA10,http://play.sportsteam1234.com/play/wen.php?id=50&id2=
+NBA11,http://play.sportsteam1234.com/play/wen.php?id=51&id2=
+NBA12,http://play.sportsteam1234.com/play/wen.php?id=52&id2=
+NBA13,http://play.sportsteam1234.com/play/wen.php?id=53&id2=
 
 
