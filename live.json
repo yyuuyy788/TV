@@ -15,6 +15,10 @@
     {
       "name": "比赛直播",
       "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/yyuuyy788/tv/main/Slive.m3u"
+    },
+    {
+      "name": "直播",
+      "url": "https://gyssi.link/iptv/chinaiptv/%E6%B5%99%E6%B1%9F.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjU0OTU1NzEyODQsImlhdCI6MTcwMzgxMTI0MSwiZXhwIjoxNzA2NDAzMjQxfQ.uNfI7EewnFcro2r70s1X6bZ0dF85lx1qEunP5MEVQyU"
     }
   ]
 }
