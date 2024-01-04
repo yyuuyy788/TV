@@ -146,12 +146,14 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105
 浙江卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
 浙江卫视,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000001000032070/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032070&livemode=1&stbId=3
 
-浙江公共新闻,http://36.27.16.70:58888/rtp/233.50.201.137:5140
-浙江教科影视,http://36.27.16.70:58888/rtp/233.50.201.134:5140
-浙江民生休闲,http://36.27.16.70:58888/rtp/233.50.201.136:5140
-浙江经济生活,http://36.27.16.70:58888/rtp/233.50.201.133:5140
-浙江钱江都市,http://36.27.16.70:58888/rtp/233.50.201.132:5140
-浙江少儿,http://36.27.16.70:58888/rtp/233.50.201.138:5140
+浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+
 
 
 影视剧,#genre#
