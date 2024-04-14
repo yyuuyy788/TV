@@ -1,0 +1,11 @@
+[
+  {
+    "group": "我的电视",
+    "logo": "http://epg.112114.eu.org/logo/{name}.png",
+    "name": "http://epg.112114.eu.org/?ch={name}&date={date}",
+    "title": "显示标题",
+    "uris": [
+      "https://mirror.ghproxy.com/raw.githubusercontent.com/yyuuyy788/tv/main/IPV6.txt"
+    ]
+  }
+]
