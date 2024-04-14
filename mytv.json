@@ -1,11 +1,11 @@
 [
   {
-    "group": "我的电视",
-    "logo": "http://epg.112114.eu.org/logo/{name}.png",
+    "group": "央视",
+    "logo": "http://epg.112114.eu.org/logo/CCTV1.png",
     "name": "http://epg.112114.eu.org/?ch={name}&date={date}",
-    "title": "显示标题",
+    "title": "CCTV1",
     "uris": [
-      "https://mirror.ghproxy.com/raw.githubusercontent.com/yyuuyy788/tv/main/IPV6.txt"
+      "http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8"
     ]
   }
 ]
